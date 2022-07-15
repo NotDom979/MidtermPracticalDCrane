@@ -98,6 +98,20 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+#FILES MANUALLY PUT IN FOR MIDTERM
+Debug
+Release
+ipch
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.suo
+*.exe
+!CreateMain.exe
+/UnitTester/Defines.h
+.vs
+
 # Chutzpah Test files
 _Chutzpah*
 
